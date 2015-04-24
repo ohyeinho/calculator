@@ -11,7 +11,7 @@ int main(int argc, char* argv[])
 	int number1, number2, result;
 	char operator;
 	
-	printf("수식을 입력해주세요");
+	printf("수식 입력!!!");
 
 	scanf("%d %c %d", &number1, &operator, &number2);
 	
