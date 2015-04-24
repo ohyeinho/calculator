@@ -1,4 +1,2 @@
 # calculator
-12312314124
-fdsfd
-2차 커밋
+![수지](http://mimgnews2.naver.net/image/421/2015/03/23/1283120_article_99_20150323165608.jpg)
