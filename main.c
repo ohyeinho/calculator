@@ -10,6 +10,7 @@ int main(int argc, char* argv[])
 {
 	int number1, number2, result;
 	char operator;
+// qwe2222
 	
 	printf("ohyeahye! Domino!");
 
