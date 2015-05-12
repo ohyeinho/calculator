@@ -5,6 +5,8 @@ int sub(int, int);
 
 int div(int, int);
 int multi(int, int);
+int a;
+int aaaa;
  
 int main(int argc, char* argv[])
 {
