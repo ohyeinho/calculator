@@ -7,6 +7,7 @@ int div(int, int);
 int multi(int, int);
 int a;
 int aaaa;
+int aaaaaaa;
  
 int main(int argc, char* argv[])
 {
